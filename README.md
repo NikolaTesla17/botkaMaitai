@@ -5,7 +5,7 @@ This is a bot written in python to automatically convert images using the first-
 cd ~/../storage/discord/pythonBotLinux && python bot.py
 
 # To install on linux(I recommend using a paperpace server, make sure you have a gpu with cuda)
-1. Download and unzip the folder somewhere
+1. Download and unzip the repo as a folder somewhere
 2. Install anaconda3
 3. Install ffmpeg
 4. Navigate to the first-order-model folder
