@@ -14,3 +14,4 @@ cd ~/../storage/discord/pythonBotLinux && python bot.py
 7. You may be missing other packages, not sure all that is needed but once the server
 successfully runs, use in discord
 8. To add to new servers, check the discord dashboard
+9. Edit the .env file with your discord token
