@@ -15,3 +15,7 @@ cd ~/../storage/discord/pythonBotLinux && python bot.py
 successfully runs, use in discord
 8. To add to new servers, check the discord dashboard
 9. Edit the .env file with your discord token
+
+# To install on windows
+1. Do the same things as linux, basically just set up as you would to use the first order model
+2. delete the bot.py file and rename the windowsBot.py file to bot.py
